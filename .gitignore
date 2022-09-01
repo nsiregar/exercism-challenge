@@ -1,0 +1,5 @@
+.idea
+
+# Elixir
+*.ez
+*.beam
