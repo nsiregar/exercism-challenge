@@ -34,7 +34,3 @@ class Raindrops
     (1..number).select { |n| (number % n).zero? }
   end
 end
-
-module BookKeeping
-  VERSION = 3
-end
